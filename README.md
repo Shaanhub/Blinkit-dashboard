@@ -1,4 +1,4 @@
-# Blink# BlinkIT Sales & Operations Analysis Dashboard
+ BlinkIT Sales & Operations Analysis Dashboard
 
 ## 📌 Project Overview
 This project analyzes BlinkIT grocery sales and delivery operations to uncover insights related to revenue, customer demand, delivery efficiency, and outlet performance. The goal is to support data-driven decision-making through interactive dashboards.
